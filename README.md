@@ -16,17 +16,17 @@ Trabalho Prático de Teoria dos Grafos
 
 * Grafos de Teste  -  DIJKSTRA (Tempo em Segundos / Custo)   
 
-rg300_4730.txt          {0, 24}                
-rome99c.txt             {6, 36037}     
-facebook_combined.txt   {11, 1}
-USA-road-dt.DC.txt      {160, 28137}
++ rg300_4730.txt          {0, 24}                
++ rome99c.txt             {6, 36037}     
++ facebook_combined.txt   {11, 1}
++ USA-road-dt.DC.txt      {160, 28137}
 
 * Grafos de Teste  -  DIJKSTRA (Tempo em Milisegundos / Custo)  
 
-rg300_4730.txt          {18, 24}
-rome99c.txt             {6803, 36037}
-facebook_combined.txt   {11816, 1}
-USA-road-dt.DC.txt      {166040, 28137}
++ rg300_4730.txt          {18, 24}
++ rome99c.txt             {6803, 36037}
++ facebook_combined.txt   {11816, 1}
++ USA-road-dt.DC.txt      {166040, 28137}
 
 
 * Grafos de Teste    -     BELLMAN-FORD (Tempo em Segundos / Custo) 
