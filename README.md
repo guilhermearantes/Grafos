@@ -14,14 +14,14 @@ Trabalho Prático de Teoria dos Grafos
 * Instruções:  Na classe Main, da linha 6 até a linha 56 estão as chamadas das funções para testar a Parte 01 do Trabalho, os exercícios 01 ao 15. Logo em seguida estão os algoritimos da Parte 02, o algoritmo DIJKSTRA e BELLMAN-FORD.
 
 
-* Grafos de Teste  -  DIJKSTRA (Tempo em Segundos / Custo)   
+- Grafos de Teste  -  DIJKSTRA (Tempo em Segundos / Custo)   
 
-+ <p> rg300_4730.txt          {0, 24}         </p>
-+ <p> rome99c.txt             {6, 36037}       </p>
-+ <p> facebook_combined.txt   {11, 1}  </p>
-+ <p> USA-road-dt.DC.txt      {160, 28137}  </p>
++ rg300_4730.txt          {0, 24}        
++ rome99c.txt             {6, 36037}     
++ facebook_combined.txt   {11, 1}  
++ USA-road-dt.DC.txt      {160, 28137}  
 
-* Grafos de Teste  -  DIJKSTRA (Tempo em Milisegundos / Custo)  
+- Grafos de Teste  -  DIJKSTRA (Tempo em Milisegundos / Custo)  
 
 + rg300_4730.txt          {18, 24}
 + rome99c.txt             {6803, 36037}
