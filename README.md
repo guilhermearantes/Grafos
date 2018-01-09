@@ -16,10 +16,10 @@ Trabalho Prático de Teoria dos Grafos
 
 * Grafos de Teste  -  DIJKSTRA (Tempo em Segundos / Custo)   
 
-+ rg300_4730.txt          {0, 24}                
-+ rome99c.txt             {6, 36037}     
-+ facebook_combined.txt   {11, 1}
-+ USA-road-dt.DC.txt      {160, 28137}
++ <p> rg300_4730.txt          {0, 24}         </p>
++ <p> rome99c.txt             {6, 36037}       </p>
++ <p> facebook_combined.txt   {11, 1}  </p>
++ <p> USA-road-dt.DC.txt      {160, 28137}  </p>
 
 * Grafos de Teste  -  DIJKSTRA (Tempo em Milisegundos / Custo)  
 
