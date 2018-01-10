@@ -17,7 +17,10 @@ Trabalho Prático de Teoria dos Grafos
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Foo1</td>
+    </tr>
+    <tr>
+        <td>Foo2</td>
     </tr>
 </table>
 
