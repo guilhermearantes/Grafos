@@ -22,3 +22,11 @@ Trabalho Prático de Teoria dos Grafos
 | USA-road-dt.DC.txt    	| {160, 28137}                         	| 
 
 
+
+| Grafos de Teste:      	| BELLMAN-FORD (Tempo em Segundos / Custo)  | 
+|-----------------------	|-----------------------------------------	|
+| rg300_4730.txt,       	| {0, 24}                                 	| 
+| rome99c.txt,          	| {0, 36037}                              	| 
+| facebook_combined.txt 	| {10, 1}                                 	| 
+| USA-road-dt.DC.txt    	| {3, 28137}                              	| 
+
