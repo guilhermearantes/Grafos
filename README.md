@@ -17,12 +17,17 @@ Trabalho Prático de Teoria dos Grafos
 
 <table>
     <tr>
-        <td>Foo1</td>
+        <td>
+| Grafos de Teste:      	| DIJKSTRA (Tempo em Segundos / Custo) 	| BELLMAN-FORD (Tempo em Segundos / Custo) 	|
+|-----------------------	|--------------------------------------	|------------------------------------------	|
+| rg300_4730.txt,       	| {0, 24}                              	| {0, 24}                                  	|
+| rome99c.txt,          	| {6, 36037}                           	| {0, 36037}                               	|
+| facebook_combined.txt 	| {11, 1}                              	| {10, 1}                                  	|
+| USA-road-dt.DC.txt    	| {160, 28137}                         	| {3, 28137}                               	|
+
+
+        </td>
     </tr>
-    <tr>
-        <td>Foo2</td>
-    </tr>
+
 </table>
-
-
 
