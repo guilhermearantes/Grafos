@@ -38,7 +38,7 @@
 * Sequência de vértices a ser tomada com o Vértice de Origem igual a 0 e Vértice de Destino igual a 100: 
 
 
-<p>rg300_4730.txt: </p>  
+rg300_4730.txt:
 100 -> 282 -> 156 -> 188 -> 0
 
 
@@ -46,7 +46,7 @@
 100 -> 97 -> 87 -> 89 -> 90 -> 79 -> 85 -> 86 -> 72 -> 126 -> 127 -> 125 -> 124 -> 123 -> 119 -> 120 -> 65 -> 128 -> 129 -> 138 -> 181 -> 155 -> 171 -> 158 -> 159 -> 19 -> 14 -> 18 -> 17 -> 16 -> 20 -> 21 -> 0 -> 
 
 
-<p>facebook_combined.txt:</p>
+facebook_combined.txt:
 100 -> 0 
 
 
